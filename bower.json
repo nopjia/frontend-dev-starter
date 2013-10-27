@@ -1,0 +1,10 @@
+{
+  "name": "Web Dev Template",
+  "version": "0.1",
+  "dependencies": {
+    "requirejs": "latest",
+    "jquery": "latest",
+    "backbone-amd": "latest",
+    "underscore-amd": "latest"
+  }
+}
