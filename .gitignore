@@ -1,2 +1,4 @@
 app/js
 app/js/vendor
+app/css
+.sass-cache/
