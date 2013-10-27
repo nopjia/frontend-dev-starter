@@ -1,7 +1,7 @@
 ({
   appDir: "../app",
-  baseUrl: "scripts",
+  baseUrl: "js",
   dir: "../dist",
   name: 'main',
-  mainConfigFile: '../app/scripts/main.js'
+  mainConfigFile: '../app/js/main.js'
 })
